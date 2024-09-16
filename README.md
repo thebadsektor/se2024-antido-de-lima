@@ -155,7 +155,6 @@ Another Screenshot
 ![UI Placeholder](https://via.placeholder.com/1200x700.png?text=UI+Placeholder)
 
 ## Project Structure
-Explain the structure of the project directory.
 .
 └── C:/
     └── Users/
