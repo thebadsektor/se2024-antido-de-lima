@@ -12,7 +12,7 @@ requirements for running this system:
 
 # SD-3101 [LPG-GAS-BOOKING-SYSTEM]
 
-![Project Banner](https://via.placeholder.com/1200x400.png?text=Project+Banner+Placeholder)
+![Project Banner](banner.jpg)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -69,17 +69,45 @@ Build and integrate key functionalities including:
 
 
 ## Features
-List the main features of the project:
-- Feature 1: Brief description.
-- Feature 2: Brief description.
-- Feature 3: Brief description.
+Here are some key features of the LPG Control Hub: 
+
+Admin-side:
+
+•	Dashboard: Displays an overview of LPG consumption, system status, and real-time alerts. It shows total usage, current operational status, and key performance metrics.
+
+•	Device Management: Manages and configures LPG devices, including status checks, maintenance scheduling, and device settings.
+
+•	User Management: Handles user accounts, roles, and permissions, and tracks user activity for security and auditing.
+
+•	Alerts and Notifications: Manages and reviews system alerts, incidents, and notification settings.
+
+•	Reporting and Analytics: Generates detailed reports on gas consumption, compliance, and system performance.
+
+•	System Settings: Adjusts global system settings, manages backups, and schedules updates.
+
+User-side:
+
+•	Dashboard: Provides an overview of individual LPG consumption, current system status, and key alerts.
+
+•	Alerts and Notifications: Displays active alerts and allows users to adjust notification preferences.
+
+•	Usage History: Shows historical data on LPG consumption and past incidents.
+
+•	System Control: Allows for manual control of LPG devices and access to emergency shutdown procedures.
+
+•	Maintenance Requests: Enables users to submit and track maintenance requests for LPG systems.
+
+•	User Profile: Manages personal details, login activity, and security settings.
+
+•	Educational Resources: Offers access to safety guidelines and training materials related to LPG management.
+
 
 ## Technologies Used
 Mention the tools, frameworks, and technologies used in the project:
-- Programming Languages: [e.g., Python, JavaScript, etc.]
-- Frameworks/Libraries: [e.g., React, Flask, etc.]
-- Databases: [e.g., MySQL, MongoDB, etc.]
-- Other Tools: [e.g., Git, Docker, etc.]
+- Programming Languages: Python
+- Frameworks/Libraries: tkinter
+- Databases: sqlite3
+- Other Tools: Git, VScode
 
 ## Setup and Installation
 Step-by-step instructions for setting up the project locally.
@@ -89,7 +117,7 @@ Step-by-step instructions for setting up the project locally.
    git clone https://github.com/thebadsektor/se2024-antido-de-lima
    ```
 2. **Install dependencies:**
-	- If using `npm`:
+   - If using `npm`:
    ```bash
    git clone https://github.com/thebadsektor/se2024-antido-de-lima
    ```
@@ -158,19 +186,7 @@ Outline the project timeline, including milestones or deliverables. Example:
 
 ## Changelog
 
-### [Version 1.0.0] - 2024-09-07
-- Initial release of the project.
-- Added basic functionality for [Feature 1], [Feature 2], and [Feature 3].
-
-### [Version 1.1.0] - 2024-09-14
-- Improved user interface for [Feature 1].
-- Fixed bugs related to [Feature 2].
-- Updated project documentation with setup instructions.
-
-### [Version 1.2.0] - 2024-09-21
-- Added new functionality for [Feature 4].
-- Refactored codebase for better performance.
-- Added unit tests for [Feature 3] and [Feature 4].
+### -no content
 
 
 ## Acknowledgments
@@ -182,5 +198,22 @@ This project was built from [lpg-gas-booking-system] (https://github.com/CoderAv
 ## License
 
 Specify the project's license. For starters, adapt the license of the original repository.
+
+Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+
 # se2024-antido-de-lima
 # se2024-antido-de-lima
