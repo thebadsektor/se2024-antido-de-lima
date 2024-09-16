@@ -157,14 +157,17 @@ Another Screenshot
 ## Project Structure
 Explain the structure of the project directory.
 .
-├── C:\Users\Admin1\lpg-gas-booking-system
-├── │
-├── ├── .gitignore
-├── ├── appointment.py
-├── ├── booking.py
-├── ├── database.db
-├── ├── License
-└── └── README.md
+└── C:/
+    └── Users/
+        └── Admi1/
+            └── se2024-antido-de-lima/
+                ├── .gitignore
+                ├── appointment.py
+                ├── banner.jpg
+                ├── booking.py
+                ├── database.db
+                ├── LICENSE
+                └── README.md
 
 ## Contributors
 
