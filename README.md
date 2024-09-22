@@ -155,17 +155,19 @@ Another Screenshot
 ![UI Placeholder](https://via.placeholder.com/1200x700.png?text=UI+Placeholder)
 
 ## Project Structure
-C:
-└── Users
-    └── Admi1
-        └── se2024-antido-de-lima
-            ├── .gitignore
-            ├── appointment.py
-            ├── banner.jpg
-            ├── booking.py
-            ├── database.db
-            ├── LICENSE
-            └── README.md
+
+'''
+└──C:
+  └── Users
+      └── Admi1
+          └── se2024-antido-de-lima
+              ├── .gitignore
+              ├── appointment.py
+              ├── banner.jpg
+              ├── booking.py
+              ├── database.db
+              ├── LICENSE
+              └── README.md
 
 ## Contributors
 
