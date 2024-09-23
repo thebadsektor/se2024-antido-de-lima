@@ -156,7 +156,7 @@ Another Screenshot
 
 ## Project Structure
 
-'''
+```
 └──C:
   └── Users
       └── Admi1
@@ -168,7 +168,7 @@ Another Screenshot
               ├── database.db
               ├── LICENSE
               └── README.md
-
+```
 ## Contributors
 
 List all the team members involved in the project. Include their roles and responsibilities:
