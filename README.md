@@ -181,7 +181,20 @@ List all the team members involved in the project. Include their roles and respo
 
 Outline the project timeline, including milestones or deliverables. Example:
 
-- **Week 1-2**: Research and project planning.
+- **Week 1-2**: Collaborative Brainstorming for Feature Development
+ - 08/17/2024
+ -  Group Collaboration in Software Engineering (Group 7 & 24) (youtube.com)
+ -  Proposes Features
+ -  1. Dashboard
+    2. Device Management
+    3. Alert Notifications
+    4. Usage History
+    5. System Control
+    6. Maintenance Requests
+    7. User Profile
+    8. System Settings
+    9. Reporting and Analytics
+    10. User Management
 - **Week 3-5**: Design and setup.
 - **Week 6-10**: Implementation.
 - **Week 11-12**: Testing and debugging.
