@@ -183,7 +183,7 @@ Outline the project timeline, including milestones or deliverables. Example:
 
 - **Week 1-2**: Collaborative Brainstorming for Feature Development
  - 08/17/2024
- -  Group Collaboration in Software Engineering (Group 7 & 24) (youtube.com)
+ -  https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.youtube.com/watch%3Fv%3D1TF_gqFCzKU&ved=2ahUKEwjihd2nquCIAxX5nq8BHWPmJZMQwqsBegQIEhAE&usg=AOvVaw1PlG75AJGbIVCtQ613MR0-
  -  Proposes Features
  -  1. Dashboard
     2. Device Management
