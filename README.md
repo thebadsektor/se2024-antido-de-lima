@@ -10,7 +10,7 @@ requirements for running this system:
 
                                                                                                                                 ~Avinash
 
-# SD-3101 [LPG-GAS-BOOKING-SYSTEM]
+# SD-3101 LPG-GAS-BOOKING-SYSTEM
 
 ![Project Banner](banner.jpg)
 
