@@ -202,7 +202,29 @@ Outline the project timeline, including milestones or deliverables. Example:
 
 ## Changelog
 
-### -no content
+### -Changelog
+
+[Version 1.0.0] - 2024-09-07
+
+Initial release of the project.
+
+Added basic functionality for [Feature 1], [Feature 2], and [Feature 3].
+
+[Version 1.1.0] - 2024-09-14
+
+Improved user interface for [Feature 1].
+
+Fixed bugs related to [Feature 2].
+
+Updated project documentation with setup instructions.
+
+[Version 1.2.0] - 2024-09-21
+
+Added new functionality for [Feature 4].
+
+Refactored codebase for better performance.
+
+Added unit tests for [Feature 3] and [Feature 4].
 
 
 ## Acknowledgments
