@@ -191,6 +191,10 @@ Outline the project timeline, including milestones or deliverables. Example:
     8. System Settings
     9. Reporting and Analytics
     10. User Management
+
+    - Feature to Implement: Dockerize Project
+    - Target Date: 27/10/2024
+    
 - **Week 3-5**: Design and setup.
 - **Week 6-10**: Implementation.
 - **Week 11-12**: Testing and debugging.
