@@ -130,10 +130,6 @@ Step-by-step instructions for setting up the project locally.
    git clone https://github.com/thebadsektor/se2024-antido-de-lima
    ```
 4. **Run the project:**
-   - For web projects:
-   ```bash
-   npm start
-   ```
    - IFor backend services:
    ```bash
    python app.py
@@ -156,14 +152,14 @@ Another Screenshot
 
 ## Project Structure
 ```
- └── se2024-antido-de-lima
-              ├── .gitignore
-              ├── appointment.py
-              ├── banner.jpg
-              ├── booking.py
-              ├── database.db
-              ├── LICENSE
-              └── README.md
+ .
+ .gitignore
+  appointment.py
+  banner.jpg
+  booking.py
+  database.db
+  LICENSE
+  README.md
 ```
 ## Contributors
 
